@@ -1,0 +1,5 @@
+D:\VSCODE\2-5-1\2-5-1\bin\Debug\2-5-1.exe.config
+D:\VSCODE\2-5-1\2-5-1\bin\Debug\2-5-1.exe
+D:\VSCODE\2-5-1\2-5-1\bin\Debug\2-5-1.pdb
+D:\VSCODE\2-5-1\2-5-1\obj\Debug\2-5-1.exe
+D:\VSCODE\2-5-1\2-5-1\obj\Debug\2-5-1.pdb

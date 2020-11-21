@@ -1,0 +1,6 @@
+D:\VSCODE\2-5-3\2-5-3\bin\Debug\2-5-3.exe.config
+D:\VSCODE\2-5-3\2-5-3\bin\Debug\2-5-3.exe
+D:\VSCODE\2-5-3\2-5-3\bin\Debug\2-5-3.pdb
+D:\VSCODE\2-5-3\2-5-3\obj\Debug\2-5-3.csprojResolveAssemblyReference.cache
+D:\VSCODE\2-5-3\2-5-3\obj\Debug\2-5-3.exe
+D:\VSCODE\2-5-3\2-5-3\obj\Debug\2-5-3.pdb
