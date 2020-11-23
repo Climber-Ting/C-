@@ -1,0 +1,5 @@
+D:\VSCODE\3-5-7\3-5-7\bin\Debug\3-5-7.exe.config
+D:\VSCODE\3-5-7\3-5-7\bin\Debug\3-5-7.exe
+D:\VSCODE\3-5-7\3-5-7\bin\Debug\3-5-7.pdb
+D:\VSCODE\3-5-7\3-5-7\obj\Debug\3-5-7.exe
+D:\VSCODE\3-5-7\3-5-7\obj\Debug\3-5-7.pdb
