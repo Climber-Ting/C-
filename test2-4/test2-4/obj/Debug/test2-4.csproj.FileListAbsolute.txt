@@ -1,0 +1,6 @@
+D:\VSCODE\test2-4\test2-4\bin\Debug\test2-4.exe.config
+D:\VSCODE\test2-4\test2-4\bin\Debug\test2-4.exe
+D:\VSCODE\test2-4\test2-4\bin\Debug\test2-4.pdb
+D:\VSCODE\test2-4\test2-4\obj\Debug\test2-4.csprojResolveAssemblyReference.cache
+D:\VSCODE\test2-4\test2-4\obj\Debug\test2-4.exe
+D:\VSCODE\test2-4\test2-4\obj\Debug\test2-4.pdb
