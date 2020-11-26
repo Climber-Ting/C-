@@ -1,0 +1,5 @@
+D:\VSCODE\Ex1-2\Ex1-2\bin\Debug\Ex1-2.exe.config
+D:\VSCODE\Ex1-2\Ex1-2\bin\Debug\Ex1-2.exe
+D:\VSCODE\Ex1-2\Ex1-2\bin\Debug\Ex1-2.pdb
+D:\VSCODE\Ex1-2\Ex1-2\obj\Debug\Ex1-2.exe
+D:\VSCODE\Ex1-2\Ex1-2\obj\Debug\Ex1-2.pdb
