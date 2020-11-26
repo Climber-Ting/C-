@@ -1,0 +1,6 @@
+D:\VSCODE\Test3-1\Test3-1\bin\Debug\Test3-1.exe.config
+D:\VSCODE\Test3-1\Test3-1\bin\Debug\Test3-1.exe
+D:\VSCODE\Test3-1\Test3-1\bin\Debug\Test3-1.pdb
+D:\VSCODE\Test3-1\Test3-1\obj\Debug\Test3-1.csprojResolveAssemblyReference.cache
+D:\VSCODE\Test3-1\Test3-1\obj\Debug\Test3-1.exe
+D:\VSCODE\Test3-1\Test3-1\obj\Debug\Test3-1.pdb

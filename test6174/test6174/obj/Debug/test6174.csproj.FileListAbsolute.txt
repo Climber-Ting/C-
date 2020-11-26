@@ -1,0 +1,6 @@
+D:\VSCODE\test6174\test6174\bin\Debug\test6174.exe.config
+D:\VSCODE\test6174\test6174\bin\Debug\test6174.exe
+D:\VSCODE\test6174\test6174\bin\Debug\test6174.pdb
+D:\VSCODE\test6174\test6174\obj\Debug\test6174.csprojResolveAssemblyReference.cache
+D:\VSCODE\test6174\test6174\obj\Debug\test6174.exe
+D:\VSCODE\test6174\test6174\obj\Debug\test6174.pdb
