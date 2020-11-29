@@ -1,0 +1,6 @@
+D:\VSCODE\testnumsort\testnumsort\bin\Debug\testnumsort.exe.config
+D:\VSCODE\testnumsort\testnumsort\obj\Debug\testnumsort.csprojResolveAssemblyReference.cache
+D:\VSCODE\testnumsort\testnumsort\bin\Debug\testnumsort.exe
+D:\VSCODE\testnumsort\testnumsort\bin\Debug\testnumsort.pdb
+D:\VSCODE\testnumsort\testnumsort\obj\Debug\testnumsort.exe
+D:\VSCODE\testnumsort\testnumsort\obj\Debug\testnumsort.pdb

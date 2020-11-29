@@ -1,0 +1,9 @@
+D:\VSCODE\ProcessMethodCall\ProcessMethodCall\bin\Debug\ProcessMethodCall.exe.config
+D:\VSCODE\ProcessMethodCall\ProcessMethodCall\bin\Debug\ProcessMethodCall.exe
+D:\VSCODE\ProcessMethodCall\ProcessMethodCall\bin\Debug\ProcessMethodCall.pdb
+D:\VSCODE\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.csprojResolveAssemblyReference.cache
+D:\VSCODE\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.Form1.resources
+D:\VSCODE\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.Properties.Resources.resources
+D:\VSCODE\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.csproj.GenerateResource.Cache
+D:\VSCODE\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.exe
+D:\VSCODE\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.pdb

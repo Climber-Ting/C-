@@ -1,0 +1,12 @@
+D:\VSCODE\StudentMIS\StudentMIS\bin\Debug\StudentMIS.exe.config
+D:\VSCODE\StudentMIS\StudentMIS\bin\Debug\StudentMIS.exe
+D:\VSCODE\StudentMIS\StudentMIS\bin\Debug\StudentMIS.pdb
+D:\VSCODE\StudentMIS\StudentMIS\obj\Debug\StudentMIS.csprojResolveAssemblyReference.cache
+D:\VSCODE\StudentMIS\StudentMIS\obj\Debug\StudentMIS.Browser.resources
+D:\VSCODE\StudentMIS\StudentMIS\obj\Debug\StudentMIS.welcome.resources
+D:\VSCODE\StudentMIS\StudentMIS\obj\Debug\StudentMIS.Login.resources
+D:\VSCODE\StudentMIS\StudentMIS\obj\Debug\StudentMIS.Properties.Resources.resources
+D:\VSCODE\StudentMIS\StudentMIS\obj\Debug\StudentMIS.Updata.resources
+D:\VSCODE\StudentMIS\StudentMIS\obj\Debug\StudentMIS.csproj.GenerateResource.Cache
+D:\VSCODE\StudentMIS\StudentMIS\obj\Debug\StudentMIS.exe
+D:\VSCODE\StudentMIS\StudentMIS\obj\Debug\StudentMIS.pdb
