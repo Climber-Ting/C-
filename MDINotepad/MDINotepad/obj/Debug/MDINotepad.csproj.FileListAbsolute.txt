@@ -1,0 +1,10 @@
+D:\VSCODE\MDINotepad\MDINotepad\bin\Debug\MDINotepad.exe.config
+D:\VSCODE\MDINotepad\MDINotepad\bin\Debug\MDINotepad.exe
+D:\VSCODE\MDINotepad\MDINotepad\bin\Debug\MDINotepad.pdb
+D:\VSCODE\MDINotepad\MDINotepad\obj\Debug\MDINotepad.csprojResolveAssemblyReference.cache
+D:\VSCODE\MDINotepad\MDINotepad\obj\Debug\MDINotepad.Form1.resources
+D:\VSCODE\MDINotepad\MDINotepad\obj\Debug\MDINotepad.MDIForm.resources
+D:\VSCODE\MDINotepad\MDINotepad\obj\Debug\MDINotepad.Properties.Resources.resources
+D:\VSCODE\MDINotepad\MDINotepad\obj\Debug\MDINotepad.csproj.GenerateResource.Cache
+D:\VSCODE\MDINotepad\MDINotepad\obj\Debug\MDINotepad.exe
+D:\VSCODE\MDINotepad\MDINotepad\obj\Debug\MDINotepad.pdb

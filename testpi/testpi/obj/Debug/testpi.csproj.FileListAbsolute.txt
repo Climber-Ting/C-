@@ -1,0 +1,6 @@
+D:\VSCODE\testpi\testpi\bin\Debug\testpi.exe.config
+D:\VSCODE\testpi\testpi\bin\Debug\testpi.exe
+D:\VSCODE\testpi\testpi\bin\Debug\testpi.pdb
+D:\VSCODE\testpi\testpi\obj\Debug\testpi.csprojResolveAssemblyReference.cache
+D:\VSCODE\testpi\testpi\obj\Debug\testpi.exe
+D:\VSCODE\testpi\testpi\obj\Debug\testpi.pdb

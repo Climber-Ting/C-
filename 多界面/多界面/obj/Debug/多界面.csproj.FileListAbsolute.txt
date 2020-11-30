@@ -1,0 +1,10 @@
+D:\VSCODE\多界面\多界面\bin\Debug\多界面.exe.config
+D:\VSCODE\多界面\多界面\bin\Debug\多界面.exe
+D:\VSCODE\多界面\多界面\bin\Debug\多界面.pdb
+D:\VSCODE\多界面\多界面\obj\Debug\多界面.csprojResolveAssemblyReference.cache
+D:\VSCODE\多界面\多界面\obj\Debug\多界面.Form2.resources
+D:\VSCODE\多界面\多界面\obj\Debug\多界面.Properties.Resources.resources
+D:\VSCODE\多界面\多界面\obj\Debug\多界面.csproj.GenerateResource.Cache
+D:\VSCODE\多界面\多界面\obj\Debug\多界面.exe
+D:\VSCODE\多界面\多界面\obj\Debug\多界面.pdb
+D:\VSCODE\多界面\多界面\obj\Debug\多界面.Form1.resources

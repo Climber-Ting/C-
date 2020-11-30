@@ -1,0 +1,4 @@
+D:\VSCODE\Function\Function\bin\Debug\Function.dll
+D:\VSCODE\Function\Function\bin\Debug\Function.pdb
+D:\VSCODE\Function\Function\obj\Debug\Function.dll
+D:\VSCODE\Function\Function\obj\Debug\Function.pdb
